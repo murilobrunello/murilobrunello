@@ -35,8 +35,11 @@ Buscando evolução constante em:
 
 ---
 
-## 📫 Contato
+## 🌐 Sociais
 
-* LinkedIn
-* GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-brunello)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/murilobrunello)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonmurilo35@gmail.com)
 
